@@ -51,38 +51,6 @@ exports.createPages = ({ actions, graphql }) => {
         if (allTags.indexOf(tag) === -1) allTags.push(tag)
       })
     })
-
-    allTags
-    .forEach(tag => {
-      createPage({
-        path: utils.resolvePageUrl(config.pages.tag, tag),
-        component: path.resolve('src/templates/tag/tag.js'),
-        context: {
-          tag: tag
-        }
-      })
-    })
-
-    /* Archive pages */
-    const postsForPage = config.postsForArchivePage;
-    const archivePages = Math.ceil(defaultPosts.length / postsForPage);
-    for (let i = 0; i < archivePages; i++) {
-
-      let posts = defaultPosts.slice(i * postsForPage, i * postsForPage + postsForPage);
-      let archivePage = i + 1;
-
-      createPage({
-        path: utils.resolvePageUrl(config.pages.archive, archivePage),
-        component: path.resolve('src/templates/archive/archive.js'),
-        context: {
-          postPaths: posts.map(edge => edge.node.frontmatter.path),
-          archivePage: archivePage,
-          lastArchivePage: archivePages
-        }
-      })
-
-    }
-
   })
 
 }

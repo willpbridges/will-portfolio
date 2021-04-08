@@ -12,9 +12,7 @@ module.exports = {
     games: '/games/',
     projects: '/projects/',
     blog: 'blog',
-    about: '/about/',
-    tag: 'tag',
-    archive: 'archive'
+    about: '/about/'
   },
   social: {
     github: 'https://github.com/willpbridges',

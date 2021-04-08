@@ -6,7 +6,6 @@ import { graphql } from 'gatsby'
 import Layout from '../../components/layout'
 import SEO from '../../components/seo'
 import PostList from '../../components/post-list'
-import ArchivePagination from '../../components/archive-pagination'
 import Config from '../../../config'
 
 const IndexPage = ({ data }) => (

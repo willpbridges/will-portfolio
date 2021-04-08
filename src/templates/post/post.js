@@ -40,16 +40,12 @@ const Post = ({ data, pageContext }) => {
         contentType="article"
         imageUrl={img.src}
         keywords={tags}
-        translations={translations}
       />
       <div className={style.container}>
         <Heading title={title} tags={tags} cover={img} coverTitle={excerpt} />
         <div className={style.content}>
           <ArticleHeading
             excerpt={excerpt}
-            date={date}
-            time={timeToRead}
-            translations={translations}
           />
           <Article html={html} />
         </div>

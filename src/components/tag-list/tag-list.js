@@ -12,11 +12,7 @@ const TagList = ({ tags }) => (
     {tags
       .filter((tag, index) => index === tags.indexOf(tag)) // Remove duplicate values
       .sort()
-      .map(tag => (
-        <Link to={Utils.resolvePageUrl(Config.pages.tag, tag)} key={tag}>
-          {Config.tags[tag].name || Utils.capitalize(tag)}
-        </Link>
-      ))}
+    }
   </div>
 )
 
