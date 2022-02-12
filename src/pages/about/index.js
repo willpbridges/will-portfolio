@@ -58,18 +58,19 @@ class About extends React.Component {
           <div className={style.content}>
             <h1>Hey, I'm Will!</h1>
             <p>
-              I'm a senior at Northeastern University in Boston, Massachusetts, preparing
-              to graduate with a bachelor's degree in Computer Science and Game Development.
-              I spent a year at Wayfair as a data center engineering co-op, where I gained
+              I recently graduated from Northeastern University in Boston, Massachusetts
+              with a bachelor's degree in Computer Science and Game Development.
+              I previously spent a year at Wayfair as a data center engineering co-op, where I gained
               a lot of great experience in Python scripting, DevOps, and Agile sprints. 
             </p>
             <p>
-              In my time at Northeastern, I've been very involved with the games program.
-              I've been on the executive board of the game development club for 2 years, helping
+              In my time at Northeastern, I was very involved with the games program.
+              I served on the executive board of the game development club for 2 years, helping
               coordinate meetings and arrange talks from prominent guest speakers. 
               I also helped organize and run the 2020 Boston Global Game Jam at Northeastern,
-              which was one of the largest GGJ sites in North America. In 2021, I worked with program
-              coordinator Brandon Sichling on their game Habit of Force, which I helped prepare for
+              which was one of the largest GGJ sites in North America. In 2021, I worked with 
+              Brandon Sichling, the Northeastern game design department coordinator,
+              on their game Habit of Force, which I helped prepare for
               showcases at Tokyo Indies and the Boston Festival of Indie Games.
             </p>
             <div className={style.container}>
