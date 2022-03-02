@@ -13,6 +13,6 @@ excerpt: A heartwarming adventure game about man's best friend.
         margin: 0 auto;
     }
 </style>
-<video width="640" height="360" controls>
+<video width="720" height="480" controls>
   <source src="trailer.mp4" type="video/mp4">
 </video>
