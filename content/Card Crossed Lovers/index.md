@@ -7,3 +7,6 @@ cover: ./ccl1.png
 value: 4
 excerpt: A visual novel that puts you in the shoes of a Tarot card reader.
 ---
+**When**: October 2019 <br>
+**Developed in**: Unity, C#
+### About

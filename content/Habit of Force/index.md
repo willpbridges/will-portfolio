@@ -28,7 +28,8 @@ Inspired by games like Fire Emblem: Awakening, Habit of Force combines tactical 
 
 ### Lessons & Takeaways
 
-Working on Habit of Force has been an interesting and unique experience. I appreciate the vision Brandon has for this game, and it felt really good to make progress after development had been paused. All the previous programmers left the project or had to take a break due to school, so when I and two others were brought on, I was suddenly the senior programmer. This was intimidating at first, but with enough time reading the codebase and tinkering with the game, we were able to implement new gameplay functionality and get it ready for BostonFIG. You often need to read through and comprehend a large codebase when starting a new software job, so I appreciate the experience I gained in that department, in addition to the Unity practice and being able to showcase my work at a festival.
+Habit of Force gave me valuable experience in joining a project midway through
+development and having to read and comprehend a large codebase to get up to speed. It was intimidating at first, but I soon gained a pretty solid understanding of the code and figured out what worked and what didn't. I was then able to take this knowledge and make progress on my first action items, eventually improving the existing functionality and then adding new mechanics to the gameplay. Two freshmen programmers were brought on at the same time as me, and I helped them understand the codebase so they could accomplish their assigned tasks. Development had been paused while the game transitioned to the new development team, so being able to make tangible progress and leave our mark on the game felt great.
 
 <style>
     video {

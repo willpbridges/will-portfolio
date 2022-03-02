@@ -7,6 +7,9 @@ cover: ./dogsdaytitle.png
 value: 3
 excerpt: A heartwarming adventure game about man's best friend.
 ---
+**When**: January 2019 <br>
+**Developed in**: Unity, C#
+### About
 <style>
     video {
         display:block;
