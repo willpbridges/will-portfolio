@@ -29,6 +29,6 @@ systems, and frame rate caps.
 
 ### Lessons & Takeaways
 
-The custom C++ engine was one of the most challenging and rewarding projects I worked on in college.
+Our custom game engine was easily the most in-depth C++ project I've developed, and it was also one of the most challenging and rewarding projects I worked on in college. There were a lot of interesting problems to solve. We had to make 3 functional games using the same base engine code and component systems, and we also had to make sure the games felt good and had multiple playable levels. COVID was a massive and unexpected obstacle, and it forced us to complete some of the most challenging work remotely. We spent countless hours during the pandemic building the level editor, porting over our old Breakout code to an updated engine, and fixing numerous bugs before milestone deadlines. Overall, I think the project was a huge success and I'm very glad to have worked on it.
 
 ![](breakout.png)
