@@ -12,7 +12,10 @@ excerpt: A single-page browser RPG that tracks your progress even after you clos
 ### About
 
 Monster Browser is an idle incremental game in which you acquire monsters, gather food, and train your monsters to make them better at gathering food.
-It was developed using the single-page application model to meet the requirements for my team's web development class final project. The website relied on JavaScript/CSS for the React frontend and Elixir/Erlang code for the Phoenix backend. It also utilized the Twitter API to allow Twitter users to boost your in-game progress by interacting with a tweet sent through the game. We deployed the site from our own server instance to a custom domain using nginx.
+* Single-page application 
+* Relies on JavaScript/CSS for the React frontend and Elixir/Erlang code for the Phoenix backend. 
+* Utilizes the Twitter API to allow Twitter users to boost your in-game progress by interacting with a tweet sent through the game. 
+* Deployed from our own server instance to a custom domain using nginx.
 
 ![](users.png)
 

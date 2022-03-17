@@ -4,8 +4,8 @@ date: 2021-04-08
 tags: [games, frontpage]
 path: /games/habit-of-force
 cover: ./still2.png
-value: 1
-frontpagevalue: 1
+value: 2
+frontpagevalue: 3
 excerpt: A turn-based strategy game about relationships, poetry, and giant mecha fights.
 ---
 **When**: October 2020 - January 2021 <br>
@@ -19,7 +19,7 @@ Inspired by games like Fire Emblem: Awakening, Habit of Force combines tactical 
 ### Contributions
 * Preparing the game to be showcased at events such as the Boston Festival of Indie Games and Tokyo Indies
 * Independently reading and learning the large pre-existing codebase
-* Tracking down and fixing bugs in scripts to bring the game to a playable state
+* Tracking down and fixing bugs in C# scripts to bring the game to a playable state
 * Implementing mechanics, animations, and UI elements for the battle mode
 * Filling out missing or broken functionality in scripts and adding new functionality based on code already in place
 * Helping onboard junior developers and holding project meetings to collaborate while implementing gameplay features
