@@ -35,9 +35,9 @@ Over the course of my senior year, I worked remotely with three other team membe
 ### Contributions
 * Writing C# scripts to create the pathfinding system for automatic driving and designing the pathways on each route
 * Playtesting and fixing bugs before each build submission for in-class milestones
-* Refocusing team throughout the year when we lost track of our core design goals or became too focused on issues that didn't need to be primary concerns
 * Collaborating remotely over Zoom and Discord throughout school year
 * Reaching out to our composer to secure original music for game
+* Keeping project scope in check and making sure team stayed focused on essential parts of the game
 
 ![](hood.png)
 
