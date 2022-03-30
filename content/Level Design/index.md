@@ -41,7 +41,7 @@ The Pitch: Specterscope
 Demo level info:
 * Consists of a one bedroom house with a living room, study, bathroom, kitchen, and a patio.
 * Case clues highlighted in different ways throughout the house
-* Clues reveal the presence of an evil spirit in the TV, and begin to outline a method of exorcising it. 
+* Clues reveal the presence of an evil spirit in the TV, and begin to outline a method of exorcizing it. 
 * The TV progressively tries to take you over until you can complete the ritual; in practice you have a 10 minute time limit. 
 * Collectible item in the bedroom under the bed that can pacify the TV and give you another two minutes and a special lead in the wall of the study. 
 * The ghost of the old woman is also in the house and will periodically become aggressive: it can be pacified with the Specterscope. <br></br>
@@ -59,7 +59,7 @@ In this level prototype, you play as a space explorer looking for habitable plan
 * A communal well at the center of town
 * The Ziggurat is actually floating in the sky beyond the village borders, and there are hovercrafts parked outside and fireworks going off. You deduce the villagers must be gathered at the Ziggurat for some sort of festival.
 
-At the end of your mission, you must decide whether to report that the planet is habitable, or lie to your superiors so that the alien civilization is left alone. As a designer, if you base your game world around a setting with a lot of narrative baggage, you should properly address the themes and implications of that setting rather than ignoring them and just trying to appeal to the player with aesthetics. Our goal was to design a world with cool aesthetics while also examining the ramifications of humans trying to colonize other planets. <br></br>
+At the end of your mission, you must decide whether to report that the planet is habitable, or lie to your superiors so that the alien civilization is left alone. Our thought process behind this pattern was this: As a designer, if you base your game world around a setting with a lot of narrative baggage, you should properly address the themes and implications of that setting rather than ignoring them and just trying to appeal to the player with aesthetics. Our goal was to design a world with cool aesthetics while also examining the ramifications of humans trying to colonize other planets. <br></br>
 
 **"Empty Nest" Pattern: Lost Dog**
 
@@ -70,3 +70,5 @@ The goal of this level was to demonstrate how to make a player feel lonely in a 
 * You trigger an emotional music cue when you walk by the local park (a cutscene would play here featuring memories of your dog), and it starts raining
 * The initially charming neighborhood becomes daunting as you realize you can't tell anything apart amidst the endless rows of cookie-cutter houses
 * You reach a dead end where you find the ball but not your dog
+
+Within the context of a full game, you would probably need to take more time and effort to elicit an emotional response from the player and make it feel earned, but we felt this short level concept effectively communicated our goals.
