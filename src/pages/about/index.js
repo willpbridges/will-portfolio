@@ -93,7 +93,7 @@ class About extends React.Component {
             <p>
               When it comes to game design, I'm most interested in building captivating worlds
               and developing compelling stories and characters. This is particularly apparent in
-              my love for JRPGs like Persona, Xenoblade, and 13 Sentinels: Aegis Rim.
+              my love for JRPGs like Persona, Xenoblade, and Final Fantasy XIV.
               I also enjoy getting lost in a game of Tetris, especially in the VR masterpiece
               that is Tetris Effect.
             </p>
